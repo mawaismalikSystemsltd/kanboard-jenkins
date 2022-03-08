@@ -1,5 +1,3 @@
-# kanboard-jenkins start broooooo
-kk
-jk
-karo
-kk
+# kanboard-jenkins
+
+Hello from the other-side.
